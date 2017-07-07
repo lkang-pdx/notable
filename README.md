@@ -1,3 +1,3 @@
 # Notable
 
-#### Built with Node, Express, and MongoDB
+#### Built with Node, Express, and MongoDB.
